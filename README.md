@@ -17,6 +17,7 @@ $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
 ```
+Now, I am doing unstage practice.
 
 ## How to start
 
